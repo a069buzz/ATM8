@@ -1,0 +1,21 @@
+{
+	id: "d299773e-3fea-4205-a110-4b892eec5dc6"
+	type: "player"
+	player_name: "gaErio"
+	ranks: {
+		d299773e-3fea-4205-a110-4b892eec5dc6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "gaErio"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF66"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

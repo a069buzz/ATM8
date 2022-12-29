@@ -1,0 +1,21 @@
+{
+	id: "f57a4710-9599-40f5-8033-f3664b16cd32"
+	type: "player"
+	player_name: "blahKakADong"
+	ranks: {
+		f57a4710-9599-40f5-8033-f3664b16cd32: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "blahKakADong"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFBD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

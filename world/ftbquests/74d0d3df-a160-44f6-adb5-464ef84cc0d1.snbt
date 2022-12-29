@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "74d0d3dfa16044f6adb5464ef84cc0d1"
+	name: "astralith_"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		159872B988A173AA: 1
+	}
+	started: {
+		1B175B2C955D8395: 1671821355636L
+		159872B988A173AA: 1671821355636L
+		731686C758AD9A99: 1671821355636L
+		0000000000000001: 1671821355636L
+	}
+	completed: {
+		159872B988A173AA: 1671821355636L
+		731686C758AD9A99: 1671821355636L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

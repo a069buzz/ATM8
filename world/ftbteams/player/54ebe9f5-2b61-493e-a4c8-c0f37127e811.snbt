@@ -1,0 +1,21 @@
+{
+	id: "54ebe9f5-2b61-493e-a4c8-c0f37127e811"
+	type: "player"
+	player_name: "DeltaGoZero"
+	ranks: {
+		54ebe9f5-2b61-493e-a4c8-c0f37127e811: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DeltaGoZero"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7F59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

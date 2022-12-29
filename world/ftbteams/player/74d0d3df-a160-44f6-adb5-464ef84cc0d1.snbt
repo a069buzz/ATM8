@@ -1,0 +1,21 @@
+{
+	id: "74d0d3df-a160-44f6-adb5-464ef84cc0d1"
+	type: "player"
+	player_name: "astralith_"
+	ranks: {
+		74d0d3df-a160-44f6-adb5-464ef84cc0d1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "astralith_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

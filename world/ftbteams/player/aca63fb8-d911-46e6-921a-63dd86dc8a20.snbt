@@ -1,0 +1,21 @@
+{
+	id: "aca63fb8-d911-46e6-921a-63dd86dc8a20"
+	type: "player"
+	player_name: "Maruciuss"
+	ranks: {
+		aca63fb8-d911-46e6-921a-63dd86dc8a20: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Maruciuss"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

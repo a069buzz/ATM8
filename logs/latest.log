@@ -1,0 +1,21 @@
+[29Dec2022 00:20:07.441] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 00:40:07.492] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 01:20:07.592] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 04:09:32.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledSlicedByteBuf(ridx: 1, widx: 1, cap: 1/1, unwrapped: PooledUnsafeDirectByteBuf(ridx: 2, widx: 2, cap: 2048))
+[29Dec2022 05:43:37.182] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 69 out of bounds for length 1
+[29Dec2022 05:43:37.182] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 84 out of bounds for length 51
+[29Dec2022 06:00:08.292] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 08:00:08.591] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 08:00:08.592] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 10:20:08.942] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 11:00:09.041] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 11:05:16.987] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer
+[29Dec2022 11:05:16.988] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: io.netty.channel.unix.Errors$NativeIoException: writeAddress(..) failed: Broken pipe
+[29Dec2022 11:05:22.101] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer
+[29Dec2022 11:05:22.102] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.channel.unix.Errors$NativeIoException: writeAddress(..) failed: Broken pipe
+[29Dec2022 12:20:09.242] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 15:40:09.742] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 15:40:09.743] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Dec2022 18:57:23.204] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[29Dec2022 18:57:23.847] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[29Dec2022 22:20:10.742] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?

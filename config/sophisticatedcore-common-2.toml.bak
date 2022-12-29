@@ -1,0 +1,7 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:iron_barrel|true", "sophisticatedstorage:stack_upgrade_tier_1|true", "sophisticatedstorage:stack_upgrade_tier_2|true", "sophisticatedstorage:stack_upgrade_tier_3|true", "sophisticatedstorage:stack_upgrade_tier_4|true", "sophisticatedstorage:shulker_box|true", "sophisticatedbackpacks:compacting_upgrade|true", "sophisticatedbackpacks:advanced_restock_upgrade|true", "sophisticatedstorage:iron_chest|true", "sophisticatedstorage:barrel|true", "sophisticatedstorage:upgrade_base|true", "sophisticatedstorage:crafting_upgrade|true", "sophisticatedstorage:limited_gold_barrel_1|true", "sophisticatedstorage:limited_gold_barrel_2|true", "sophisticatedstorage:limited_gold_barrel_3|true"]
+
+sophisticatedstorage:limited_gold_barrel_4|true"]
+

@@ -1,0 +1,12 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	extra_claim_chunks: 0
+	extra_force_load_chunks: 0
+	force_load_members: ["aca63fb8-d911-46e6-921a-63dd86dc8a20"]
+	chunks: {
+		"minecraft:overworld": [{ x: 197, z: 12, time: 1671788936797L, force_loaded: 1671789485357L }]
+		"minecraft:the_nether": [{ x: 22, z: 30, time: 1671789709249L, force_loaded: 1671789714549L }]
+		"minecraft:the_end": [{ x: 52, z: -47, time: 1672062277155L, force_loaded: 1672062285459L }]
+	}
+}

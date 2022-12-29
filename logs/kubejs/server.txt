@@ -1,0 +1,90 @@
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/_before.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/wires.js in 0.012 s
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/dust.js in 0.004 s
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/storage_blocks.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/ingots.js in 0.004 s
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/nuggets.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/raw_materials.js in 0.002 s
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/plates.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/rods.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:postUnify/gears.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:configurable/chunkloading.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:configurable/nuke.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:erroringRecipes.js in 0.002 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/twilightforest/removals.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/mininggadgets/upgrade.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/rftools/builder.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/quarryplus/quarrying.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/silent_gear/salvager.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/ad_astra/ad_astra.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/mysticalagriculture/crafting.js in 0.001 s
+[18:58:17] [INFO ] server_scripts:mods/mysticalagriculture/crops.js:1: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
+[18:58:17] [INFO ] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.017 s
+[18:58:17] [INFO ] server_scripts:mods/chemlib/blocks.js:1: Loaded Java class 'com.smashingmods.chemlib.registry.ItemRegistry'
+[18:58:17] [INFO ] Loaded script server_scripts:mods/chemlib/blocks.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/entangled/recipes.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/ae/recipes.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/structure_compass/structure_compass.js in 0.005 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/buildinggadgets/recipes.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/evilcraft/evilcraft.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/angelring/angelring.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/ftbic/book.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/refinedstorage/refinedstorage.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/computercraft/turtles.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/industrialforegoing/fluid_extractor.js in 0.005 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/industrialforegoing/industrial_foregoing.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:mods/timeinabottle/recipes.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:ore_removal.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:modpack/att_items.js in 0.002 s
+[18:58:17] [INFO ] Loaded script server_scripts:modpack/music_discs.js in 0.002 s
+[18:58:17] [INFO ] Loaded script server_scripts:modpack/atm_alloys.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:modpack/atm_alloy_tools.js in 0.002 s
+[18:58:17] [INFO ] Loaded script server_scripts:modpack/atm_star.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:modpack/atm_shard.js in 0.016 s
+[18:58:17] [INFO ] Loaded script server_scripts:modpack/patrick_star.js in 0.0 s
+[18:58:17] [INFO ] Loaded script server_scripts:modpack/mini_portals.js in 0.002 s
+[18:58:17] [INFO ] Loaded script server_scripts:modpack/atm_star_creative.js in 0.003 s
+[18:58:17] [INFO ] Loaded script server_scripts:xpFluids.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:tags.js in 0.001 s
+[18:58:17] [INFO ] Loaded script server_scripts:conflicts.js in 0.002 s
+[18:58:17] [INFO ] Loaded 48/48 KubeJS server scripts in 0.149 s
+[18:58:17] [INFO ] Scripts loaded
+[18:58:17] [INFO ] Scanning recipes...
+[18:58:26] [INFO ] [minecraft:fluid] Found 76 tags, added 1 objects, removed 1 objects
+[18:58:26] [INFO ] [minecraft:entity_type] Found 104 tags, added 135 objects, removed 0 objects
+[18:58:26] [INFO ] [minecraft:block] Found 1339 tags, added 350 objects, removed 0 objects
+[18:58:26] [INFO ] [minecraft:item] Found 3493 tags, added 151 objects, removed 0 objects
+[18:58:42] [WARN ] Failed to parse recipe 'sophisticatedstorage:crimson_chest_from_quark_crimson_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:42] [WARN ] Failed to parse recipe sophisticatedstorage:crimson_chest_from_quark_crimson_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:42] [WARN ] Failed to parse recipe 'angelring:leadstone_angel_ring[crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'angelring:itemring'
+[18:58:42] [WARN ] Failed to parse recipe angelring:leadstone_angel_ring[crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'angelring:itemring'
+[18:58:42] [WARN ] Failed to parse recipe 'sophisticatedstorage:jungle_chest_from_quark_jungle_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:42] [WARN ] Failed to parse recipe sophisticatedstorage:jungle_chest_from_quark_jungle_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:42] [WARN ] Failed to parse recipe 'sophisticatedstorage:spruce_chest_from_quark_spruce_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:42] [WARN ] Failed to parse recipe sophisticatedstorage:spruce_chest_from_quark_spruce_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:42] [WARN ] Failed to parse recipe 'farmersdelight:integration/botanypots/crops/cabbages[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonParseException: Expected member drops was not found.
+[18:58:42] [WARN ] Failed to parse recipe farmersdelight:integration/botanypots/crops/cabbages[botanypots:crop]: com.google.gson.JsonParseException: Expected member drops was not found.
+[18:58:42] [WARN ] Failed to parse recipe 'sophisticatedstorage:warped_chest_from_quark_warped_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:42] [WARN ] Failed to parse recipe sophisticatedstorage:warped_chest_from_quark_warped_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:42] [WARN ] Failed to parse recipe 'farmersdelight:integration/botanypots/crops/onions[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonParseException: Expected member drops was not found.
+[18:58:42] [WARN ] Failed to parse recipe farmersdelight:integration/botanypots/crops/onions[botanypots:crop]: com.google.gson.JsonParseException: Expected member drops was not found.
+[18:58:42] [WARN ] Failed to parse recipe 'farmersdelight:integration/botanypots/crops/rice_crop[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonParseException: Expected member drops was not found.
+[18:58:42] [WARN ] Failed to parse recipe farmersdelight:integration/botanypots/crops/rice_crop[botanypots:crop]: com.google.gson.JsonParseException: Expected member drops was not found.
+[18:58:43] [WARN ] Failed to parse recipe 'farmersdelight:integration/botanypots/crops/tomatoes[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonParseException: Expected member drops was not found.
+[18:58:43] [WARN ] Failed to parse recipe farmersdelight:integration/botanypots/crops/tomatoes[botanypots:crop]: com.google.gson.JsonParseException: Expected member drops was not found.
+[18:58:43] [WARN ] Failed to parse recipe 'sophisticatedstorage:acacia_chest_from_quark_acacia_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:43] [WARN ] Failed to parse recipe sophisticatedstorage:acacia_chest_from_quark_acacia_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:43] [WARN ] Failed to parse recipe 'sophisticatedstorage:birch_chest_from_quark_birch_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:43] [WARN ] Failed to parse recipe sophisticatedstorage:birch_chest_from_quark_birch_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:43] [WARN ] Failed to parse recipe 'sophisticatedstorage:dark_oak_chest_from_quark_dark_oak_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:43] [WARN ] Failed to parse recipe sophisticatedstorage:dark_oak_chest_from_quark_dark_oak_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:43] [WARN ] Failed to parse recipe 'pneumaticcraft:pneumaticcraft_fuels/cofh_biofuel[pneumaticcraft:fuel_quality]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid 'thermal:refined_biofuel'
+[18:58:43] [WARN ] Failed to parse recipe pneumaticcraft:pneumaticcraft_fuels/cofh_biofuel[pneumaticcraft:fuel_quality]: com.google.gson.JsonSyntaxException: Unknown fluid 'thermal:refined_biofuel'
+[18:58:43] [WARN ] Failed to parse recipe 'sophisticatedstorage:oak_chest_from_quark_oak_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:43] [WARN ] Failed to parse recipe sophisticatedstorage:oak_chest_from_quark_oak_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Item array cannot be empty, at least one item must be defined
+[18:58:43] [INFO ] Found 35434 recipes and 0 failed recipes in 1.798 s
+[18:58:45] [INFO ] Posted recipe events in 2.002 s
+[18:58:46] [INFO ] Modified & removed recipes in 709.2 ms
+[18:58:46] [INFO ] Added recipes in 13.33 ms
+[18:58:46] [INFO ] Added 853 recipes, removed 135 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
